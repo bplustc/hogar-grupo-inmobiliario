@@ -380,8 +380,8 @@ async function loadGalleryFromSupabase() {
     return;
   }
 
-  const supabaseUrl = 'https://uhcluuvtcbvygiggbtnv.supabase.co/';
-  const supabaseKey = 'sb_publishable_6kBucfZ8kLekaFi9d8fPiA_SC6n2y3z';
+  const supabaseUrl = 'https://cghalgvxmrnuhjwaitdt.supabase.co';
+  const supabaseKey = 'sb_publishable__Q17ZL55Lu99z1e4DD0imQ_8ZMsNBAE';
   const client = window.supabase.createClient(supabaseUrl, supabaseKey);
 
   try {
